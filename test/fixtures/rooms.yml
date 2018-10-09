@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  avalaibility: false
+  rate: MyString
+  description: MyText
+
+two:
+  avalaibility: false
+  rate: MyString
+  description: MyText
